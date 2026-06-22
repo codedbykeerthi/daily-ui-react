@@ -11,7 +11,7 @@ const actions = [
 
 const ActionButtons = () => {
   return (
-    <div className="flex  space-x-2">
+    <div className="flex gap-2">
       {actions.map((a) => (
         <button
           key={a.label}

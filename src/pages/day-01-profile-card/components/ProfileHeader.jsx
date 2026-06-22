@@ -11,7 +11,7 @@ const ProfileHeader = () => {
           alt="Patient"
         />
 
-        <p className="absolute top-0 right-0 text-teal-500 text-xs py-2 px-3 bg-teal-100 rounded-lg border border-teal-500">
+        <p className="absolute top-0 right-0 text-emerald-700 text-xs py-2 px-3 bg-emerald-100 rounded-lg border border-emerald-700">
           245566742-2B
         </p>
       </div>

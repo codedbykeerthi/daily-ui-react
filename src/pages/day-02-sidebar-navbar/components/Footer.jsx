@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Tag = ({label, variant = "default"}) => {
+const Footer = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Tag = ({label, variant = "default"}) => {
   )
 }
 
-export default Tag
+export default Footer
